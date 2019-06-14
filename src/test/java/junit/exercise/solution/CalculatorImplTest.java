@@ -1,4 +1,4 @@
-package solution;
+package junit.exercise.solution;
 
 import org.junit.Before;
 import org.junit.Rule;

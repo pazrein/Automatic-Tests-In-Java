@@ -1,4 +1,4 @@
-package Exercise;
+package junit.exercise;
 
 public interface Calculator {
 

@@ -1,6 +1,6 @@
-package solution;
+package junit.exercise.solution;
 
-import Exercise.Calculator;
+import junit.exercise.Calculator;
 
 public class CalculatorImpl implements Calculator {
 

@@ -1,4 +1,4 @@
-package mock.car;
+package powermock.car;
 
 public class FuelTank {
     private int fuel;

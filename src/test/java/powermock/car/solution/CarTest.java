@@ -1,8 +1,10 @@
-package mock.car.solution;
+package powermock.car.solution;
 
-import mock.car.Car;
-import mock.car.Engine;
-import mock.car.FuelTank;
+import powermock.car.Car;
+import powermock.car.Engine;
+import powermock.car.FuelTank;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
